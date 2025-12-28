@@ -1,24 +1,9 @@
-Copyright (c) 2025 Samuel Robbert Curry. All rights reserved.
+SRC NEUROLOCK — Copyright (c) 2025 Samuel Robbert Curry
+All rights reserved.
 
-This software ("SRC NEUROLOCK") is the personal intellectual property of Samuel Robbert Curry.
+This is my personal cryptographic tool. You may run the binary for private use.
+You may NOT decompile, reverse-engineer, modify, distribute, sell, or use commercially
+without explicit written permission from me.
 
-Permission is granted to individuals to:
-- Download and run the compiled binary for personal, non-commercial use only.
-- View the graphical interface and observe the behavior of the program.
-
-You are explicitly NOT permitted to:
-- Decompile, disassemble, reverse engineer, or attempt to derive the source code or algorithms.
-- Modify, adapt, translate, or create derivative works.
-- Remove, alter, or obscure any copyright, trademark, watermark, or attribution notices (including the "Protected by SRC NEUROLOCK" watermark in output files).
-- Distribute, sell, rent, lease, sublicense, or make available the software or any part of it.
-- Use the software or its output for commercial purposes without explicit written permission from Samuel Robbert Curry.
-- Claim ownership, authorship, or credit for the design, concept, or implementation.
-
-The name "SRC NEUROLOCK", "Viral Fortress", "Unbreakable by Design", and associated branding are trademarks of Samuel Robbert Curry.
-
-Violation of these terms may result in legal action.
-
-Built at age 16 — December 2025.  
-Samuel Robbert Curry  
-SRC Industries
-
+The watermark in every .nlock file proves ownership.
+Built at age 16. Try to break it — then talk to me.

@@ -1,21 +1,24 @@
-MIT License
+Copyright (c) 2025 Samuel Robbert Curry. All rights reserved.
 
-Copyright (c) 2025 Code-With-Samuel25
+This software ("SRC NEUROLOCK") is the personal intellectual property of Samuel Robbert Curry.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is granted to individuals to:
+- Download and run the compiled binary for personal, non-commercial use only.
+- View the graphical interface and observe the behavior of the program.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You are explicitly NOT permitted to:
+- Decompile, disassemble, reverse engineer, or attempt to derive the source code or algorithms.
+- Modify, adapt, translate, or create derivative works.
+- Remove, alter, or obscure any copyright, trademark, watermark, or attribution notices (including the "Protected by SRC NEUROLOCK" watermark in output files).
+- Distribute, sell, rent, lease, sublicense, or make available the software or any part of it.
+- Use the software or its output for commercial purposes without explicit written permission from Samuel Robbert Curry.
+- Claim ownership, authorship, or credit for the design, concept, or implementation.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+The name "SRC NEUROLOCK", "Viral Fortress", "Unbreakable by Design", and associated branding are trademarks of Samuel Robbert Curry.
+
+Violation of these terms may result in legal action.
+
+Built at age 16 — December 2025.  
+Samuel Robbert Curry  
+SRC Industries
+
